@@ -1,0 +1,28 @@
+{
+    "tags"      : {
+    "allowUnknownTags" : true
+},
+    "plugins"   : ["plugins/markdown"],
+
+    "templates" : {
+        "cleverLinks"           : false,
+        "monospaceLinks"        : false,
+        "dateFormat"            : "dd/MM/YYYY",
+        "outputSourceFiles"     : true,
+        "outputSourcePath"      : true,
+        "systemName"            : "blackjack-html5",
+        "footer"                : "(c) 2015 Zsolt Szalai",
+        "copyright"             : "The MIT License (MIT) Copyright (c) 2015 Zsolt Szalai",
+        "navType"               : "vertical",
+        "theme"                 : "cosmo",
+        "linenums"              : true,
+        "collapseSymbols"       : false,
+        "inverseNav"            : true,
+        "highlightTutorialCode" : true,
+        "protocol": "fred://"
+},
+    "markdown"  : {
+    "parser"   : "gfm",
+        "hardwrap" : true
+}
+}
