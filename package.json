@@ -1,0 +1,33 @@
+{
+  "name": "blackjack-html5",
+  "version": "0.1.0",
+  "description": "Simple blackjack implemented in HTML5",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zsoltiii/blackjack-html5.git"
+  },
+  "dependencies": {
+    "requirejs": "~2.1.16"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-jsdoc": "^0.5.8",
+    "jsdoc": "^3.3.0-beta2"
+  },
+  "keywords": [
+    "blackjack",
+    "html5",
+    "game"
+  ],
+  "author": "Zsolt Szalai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zsoltiii/blackjack-html5/issues"
+  },
+  "homepage": "https://github.com/zsoltiii/blackjack-html5"
+}

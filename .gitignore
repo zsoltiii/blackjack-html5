@@ -1,0 +1,9 @@
+// IDE
+.idea
+
+// Tools
+node_modules/grunt
+node_modules/grunt-contrib-jshint
+node_modules/grunt-jsdoc
+node_modules/jsdoc
+node_modules/.bin
