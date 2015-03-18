@@ -15,13 +15,7 @@ module.exports = function(grunt) {
             src: [
                 'Gruntfile.js',
                 'src/**/*.js'
-            ],
-            test: {
-                src: ['test/**/*.js'],
-                options: {
-                    jshintrc: 'test/.jshintrc'
-                }
-            }
+            ]
         },
 
         jsdoc: {
